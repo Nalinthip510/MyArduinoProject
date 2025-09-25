@@ -4,7 +4,7 @@ int ledPin = 13; // LED บนบอร์ด Arduino Uno
 
 void setup() {
     pinMode(ledPin, OUTPUT);
-    Serial.begin(9600);//Nalinthip
+    Serial.begin(9600);//Thammarong
 }
 
 void loop() {
